@@ -2,7 +2,7 @@
 - 🚀 Full-stack Developer | Focused on web design and API development
 - 👀 I’m interested in creating intuitive user experiences and contributing to impactful projects.
 - 🌱 I’m currently learning: Advanced UI/UX principles and API optimization
-- 📫 How to reach me yair.g.guadarrama@icloud.com
+- 📫 How to reach me yair.g.guadarrama@gmail.com
 - ⚡ Fun fact: Programming changed my life—it’s been a big challenge, but learning new things every day makes me happy.
 
 <h3 align="left">Connect with me:</h3>
