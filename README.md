@@ -167,4 +167,36 @@
       height="40"
     />
   </a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+  <img
+    src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg"
+    alt="mysql"
+    width="40"
+    height="40"
+  />
+</a>
+<a href="https://www.java.com/" target="_blank" rel="noreferrer">
+  <img
+    src="https://www.vectorlogo.zone/logos/java/java-icon.svg"
+    alt="java"
+    width="40"
+    height="40"
+  />
+</a>
+<a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer">
+  <img
+    src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg"
+    alt="springboot"
+    width="40"
+    height="40"
+  />
+</a>
+<a href="https://gradle.org/" target="_blank" rel="noreferrer">
+  <img
+    src="https://www.vectorlogo.zone/logos/gradle/gradle-icon.svg"
+    alt="gradle"
+    width="40"
+    height="40"
+  />
+</a>
 </p>
