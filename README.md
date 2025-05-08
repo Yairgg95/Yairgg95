@@ -4,6 +4,7 @@
 - 🌱 I’m currently learning: Advanced UI/UX principles and API optimization
 - 📫 How to reach me yair.g.guadarrama@gmail.com
 - ⚡ Fun fact: Programming changed my life—it’s been a big challenge, but learning new things every day makes me happy.
+- 🌐 Check out my portfolio: [www.yairggdev.lat](https://www.yairggdev.lat)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
